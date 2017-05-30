@@ -1,0 +1,28 @@
+D:\Phúc Hòa\laptrinh\game2048\bin\Debug\game2048.exe
+D:\Phúc Hòa\laptrinh\game2048\bin\Debug\game2048.pdb
+D:\Phúc Hòa\laptrinh\game2048\obj\x86\Debug\game2048.Properties.Resources.resources
+D:\Phúc Hòa\laptrinh\game2048\obj\x86\Debug\game2048.csproj.GenerateResource.Cache
+D:\Phúc Hòa\laptrinh\game2048\obj\x86\Debug\game2048.exe
+D:\Phúc Hòa\laptrinh\game2048\obj\x86\Debug\game2048.pdb
+D:\Phúc Hòa\laptrinh\game2048\obj\x86\Debug\game2048.Game2048.resources
+C:\Users\phuchoa\Desktop\game2048.exe
+C:\Users\phuchoa\Desktop\game2048.pdb
+D:\Phúc Hòa\laptrinh\game2048\obj\x86\Debug\game2048.csprojResolveAssemblyReference.cache
+C:\Users\batuhan\Downloads\game_2048_code_by_phuchoa3t\dll\obj\x86\Debug\game2048.exe
+C:\Users\batuhan\Downloads\game_2048_code_by_phuchoa3t\dll\obj\x86\Debug\game2048.pdb
+C:\Users\batuhan\Downloads\game_2048_code_by_phuchoa3t\dll\bin\Debug\game2048.exe
+C:\Users\batuhan\Downloads\game_2048_code_by_phuchoa3t\dll\bin\Debug\game2048.pdb
+C:\Users\batuhan\Downloads\game_2048_code_by_phuchoa3t\dll\obj\x86\Debug\game2048.csprojResolveAssemblyReference.cache
+C:\Users\batuhan\Downloads\game_2048_code_by_phuchoa3t\dll\obj\x86\Debug\game2048.Game2048.resources
+C:\Users\batuhan\Downloads\game_2048_code_by_phuchoa3t\dll\obj\x86\Debug\game2048.Properties.Resources.resources
+C:\Users\batuhan\Downloads\game_2048_code_by_phuchoa3t\dll\obj\x86\Debug\game2048.csproj.GenerateResource.Cache
+C:\Users\batuhan\Downloads\game_2048_code_by_phuchoa3t\game2048\obj\x86\Debug\game2048.exe
+C:\Users\batuhan\Downloads\game_2048_code_by_phuchoa3t\game2048\obj\x86\Debug\game2048.pdb
+C:\Users\batuhan\Downloads\game2048\game2048\obj\x86\Debug\game2048.exe
+C:\Users\batuhan\Downloads\game2048\game2048\obj\x86\Debug\game2048.pdb
+C:\Users\batuhan\Downloads\game2048\game2048\bin\Debug\game2048.exe
+C:\Users\batuhan\Downloads\game2048\game2048\bin\Debug\game2048.pdb
+C:\Users\batuhan\Downloads\game2048\game2048\obj\x86\Debug\game2048.csprojResolveAssemblyReference.cache
+C:\Users\batuhan\Downloads\game2048\game2048\obj\x86\Debug\game2048.Game2048.resources
+C:\Users\batuhan\Downloads\game2048\game2048\obj\x86\Debug\game2048.Properties.Resources.resources
+C:\Users\batuhan\Downloads\game2048\game2048\obj\x86\Debug\game2048.csproj.GenerateResource.Cache
